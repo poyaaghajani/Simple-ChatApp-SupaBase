@@ -1,16 +1,16 @@
-# chat_app
+<h1 align="center" id="title">Chatify</h1>
 
-A new Flutter project.
+<p id="description">A simple flutter chat app using SupaBase, try it ;) </p>
 
-## Getting Started
+<h2>💻 Built with</h2>
 
-This project is a starting point for a Flutter application.
+Technologies used in the project:
 
-A few resources to get you started if this is your first Flutter project:
+*   supabase_flutter
+*   timeago
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3>🦖 ScreenShots</h3>
+
+![Uploading Screenshot_20230809-180409.jpg…]()
+
