@@ -12,5 +12,4 @@ Technologies used in the project:
 
 <h3>🦖 ScreenShots</h3>
 
-![Uploading Screenshot_20230809-180409.jpg…]()
 
