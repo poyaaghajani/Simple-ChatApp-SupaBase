@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Chatify</h1>
 
-<p id="description">A simple flutter chat app using SupaBase, try it ;) </p>
+<p id="description">A simple flutter chat app using SupaBase, try it :) </p>
 
 <h2>💻 Built with</h2>
 
